@@ -1,5 +1,5 @@
-# Getting Started
+# Spring FeignClient Example
 
-### Reference Documentation
+### Description
 
 Spring FeignClient component implementation study
