@@ -1,0 +1,12 @@
+client:
+  baseUrl:
+    placeHolder:  https://jsonplaceholder.typicode.com
+
+feign:
+  httpclient:
+    enabled: true
+  okhttp:
+    enabled: true
+
+
+
